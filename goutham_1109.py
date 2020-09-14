@@ -1,4 +1,4 @@
-
+#commit
 leg2=[{'action':1,'bid':2.21,'ask':2.60},
      {'action':0,'bid':1.02,'ask':1.41},
      {'action':0,'bid':0.52,'ask':0.68},
